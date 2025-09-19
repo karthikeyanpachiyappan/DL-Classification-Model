@@ -159,8 +159,8 @@ conf_matrix = confusion_matrix(actuals, predictions)
 class_report = classification_report(actuals, predictions, target_names=iris.target_names)
 
 # Print details
-print("\nName: S.YOGESH")
-print("Register No: 212224230311")
+print("\nName: KARTHIKEYAN P")
+print("Register No: 212223230102")
 print(f'Test Accuracy: {accuracy:.2f}%')
 print("Confusion Matrix:\n", conf_matrix)
 print("Classification Report:\n", class_report)
@@ -190,24 +190,21 @@ print(f'Actual class for sample input: {iris.target_names[y_test[5].item()]}')
 ```
 
 ### Dataset Information
-<img width="861" height="638" alt="image" src="https://github.com/user-attachments/assets/ba4ff44b-b2c8-4d2a-bb02-834a3a5c1b2b" />
-
+<img width="723" height="643" alt="Screenshot 2025-09-19 151640" src="https://github.com/user-attachments/assets/8aca9a07-1e14-4864-81f1-ce3e05b8f415" />
 
 ### OUTPUT
 
 ## Confusion Matrix
 
-<img width="632" height="589" alt="image" src="https://github.com/user-attachments/assets/4c8140fd-4fea-4bbd-8383-5aa855de59d7" />
+<img width="630" height="443" alt="Screenshot 2025-09-19 151711" src="https://github.com/user-attachments/assets/fe49b1f8-7a26-4c50-badc-2aaf2c86f15f" />
 
 ## Classification Report
 
-<img width="614" height="402" alt="image" src="https://github.com/user-attachments/assets/8bf2ff65-0c13-4c9d-a8d9-fc15566cd03d" />
+<img width="570" height="302" alt="Screenshot 2025-09-19 151700" src="https://github.com/user-attachments/assets/9a595ce8-ba56-491d-a071-c77a01f03258" />
 
 
 ### New Sample Data Prediction
-
-<img width="587" height="173" alt="image" src="https://github.com/user-attachments/assets/4d438553-fa24-4b7c-9d2c-7b72a49846ed" />
-
+<img width="496" height="102" alt="Screenshot 2025-09-19 151716" src="https://github.com/user-attachments/assets/ac71bac8-d4a6-4678-a512-7d40b64502f5" />
 
 ## RESULT
 Include your result here
